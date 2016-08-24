@@ -1,6 +1,6 @@
 ![Universe](https://camo.githubusercontent.com/a4d40eebca3b8599191c802205404f1b557d2339/68747470733a2f2f697066732e706963732f697066732f516d554b3775374d3174737a4a5a39666f355932326a59415035506945474e4633466f3247745564365750574145)
 
-# IPFS - Universal distributed files network
+# IPFS - Universal unlimited distributed files network
 
  - ( the permanent Web / the resilient applications network )
 
